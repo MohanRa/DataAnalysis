@@ -1,0 +1,10 @@
+Toss,Match,MatchShort,Decision,1stInnings,Wickets1,2ndInnings,Wickets2,Result,Margin,Venue,Whowon
+SouthAfrica,SouthAfrica vs Australia,SAvsAus,Bat,325,6,315,10,SouthAfrica,10 runs,Old Trafford,Defend
+India,India vs Westindies,IndvsWI,Bat,268,7,143,10,India,125 runs,Old Trafford,Defend
+WestIndies,NewZealand vs Westindies,NZvsWI,Bowl,291,8,286,10,NewZealand,5 runs,Old Trafford,Defend
+England,England vs Afghanistan,Engvs Afg,Bat,397,6,247,8,England,150 runs,Old Trafford,Defend
+Pakistan,India vs Pakistan,IndvsPak,Bowl,336,5,212,6,India,89 runs,Old Trafford,Defend
+NewZealand,NewZealand vs Pakistan,NzvsPak,Bat,237,6,241,4,Pakistan,6 Wickets,Birmingham,Chase
+England,England vs India,EngvsInd,Bat,337,7,306,5,England,31 runs,Birmingham,Defend
+India,India vs Bangladesh,Ind vs Bng,Bat,314,9,286,10,India,28 runs,Birmingham,Defend
+NewZealand,SouthAfrica vs NewZealand,Sa vs Nz,Bowl,241,6,245,6,NewZealand,4 wickets,Birmingham,Chase
